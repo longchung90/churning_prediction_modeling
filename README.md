@@ -14,7 +14,8 @@ It applies data preprocessing, feature engineering, and classification technique
   - Data cleaning & preprocessing  
   - Exploratory Data Analysis (EDA)
     ![distributions between the train and test datasets](figures/charts/distribution.png)
-  - Feature engineering  
+  - Feature engineering
+    ![Correlation table for the target churniing](figures/charts/corr_table.png)
   - Model training (Logistic Regression, Random Forest, Gradient Boosting, etc.)  
   - Model evaluation (Accuracy, Precision, Recall, F1-score, ROC-AUC)
 
