@@ -12,7 +12,8 @@ It applies data preprocessing, feature engineering, and classification technique
 - **Dataset:** Customer records with demographic, account, and usage features.  
 - **Approach:**  
   - Data cleaning & preprocessing  
-  - Exploratory Data Analysis (EDA)  
+  - Exploratory Data Analysis (EDA)
+    ![distributions between the train and test datasets](figures/charts/distribution.png)
   - Feature engineering  
   - Model training (Logistic Regression, Random Forest, Gradient Boosting, etc.)  
   - Model evaluation (Accuracy, Precision, Recall, F1-score, ROC-AUC)
