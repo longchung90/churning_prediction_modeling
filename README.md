@@ -23,7 +23,7 @@ It applies data preprocessing, feature engineering, and classification technique
 
 ## ⚙️ Tools & Technologies
 - Python (pandas, NumPy, scikit-learn, matplotlib, seaborn)  
-- Jupyter Notebook  
+- Jupyter Notebook  ![churning_prediction](notebooks/ChurnPrediction_LC_final.ipynb)
 - Git & GitHub for version control  
 
 ---
