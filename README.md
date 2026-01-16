@@ -1,6 +1,7 @@
 # Customer Churn Prediction Modeling
 
-![Banner](results/figures/banners/banner_churning.png)
+![Banner](results/figures/banners/banner_churning.png) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/longchung90)
+
 
 This project focuses on predicting customer churn using machine learning models.  
 It applies data preprocessing, feature engineering, and classification techniques to help businesses identify at-risk customers and take proactive actions.
